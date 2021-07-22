@@ -1,0 +1,5 @@
+name: RenaInteractAccessor
+version: @version@
+main: com.github.shur.renainteractaccessor.RenaInteractAccessor
+api-version: 1.16
+authors: [ ShuR ]
