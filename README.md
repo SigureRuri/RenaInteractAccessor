@@ -1,5 +1,5 @@
 # Rena Interact Accessor
-チャット内容に応じた処理を簡潔に記述するためのライブラリ
+クリックしたエンティティに応じた処理を簡潔に記述するためのライブラリ
 
 ## 導入
 RenaInteractAccessorは、
